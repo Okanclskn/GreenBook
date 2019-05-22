@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "327815474880",
+    "firebase_url": "https://greenboook-1ecce.firebaseio.com",
+    "project_id": "greenboook-1ecce",
+    "storage_bucket": "greenboook-1ecce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327815474880:android:8d9ab4981c421ec1",
+        "android_client_info": {
+          "package_name": "com.kitap.greenbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327815474880-hj0kl7g4v1bl28fvjldsuo4mpcl5rbgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kitap.greenbook",
+            "certificate_hash": "c21965ef6bb53cc8a1915f7933cb61c16d3f4cd0"
+          }
+        },
+        {
+          "client_id": "327815474880-2t0cv9ecfk0vbp18pvlklevrhulc6ina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKcFuHWb1FM_4hJJXy0apcUxm59PpscQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327815474880-2t0cv9ecfk0vbp18pvlklevrhulc6ina.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327815474880-h4er7g7lq9a4ufbmdssh5heciq6ksk4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GREENBOOK"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
